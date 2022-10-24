@@ -3,3 +3,6 @@ description: Sorting my way through life
 url: "nou2020.github.io"
 markdown: kramdown
 theme: minima
+author:
+  name: Jaclyn Ho
+  email: "jho2@olin.edu"
