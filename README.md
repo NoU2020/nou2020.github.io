@@ -1,5 +1,3 @@
-# nou2020.github.io
-
 Hi! My name is 
 ## Jaclyn Ho.
 Passionate about people, design, coding, and video games. I love learning new technologies and learning about people to better understand the world around me.
