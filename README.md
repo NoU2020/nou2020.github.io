@@ -33,9 +33,9 @@ Extracurricular Actitivies:
 
 ## Projects
 ### Coding
-- [Cheems Game](https://github.com/olincollege/cheems-game/blob/main/docs/README.md):
+- Cheems Game:
 	Made a motion controlled pokemon inspired game using python
-- [Performance tracker](https://github.com/olincollege/league-performance-analyzer/blob/main/Comp_Essay.ipynb):
+- Performance tracker:
         Tracked specific player performances in league of legends over time using riot API
 - [Eigen traffic signs](https://docs.google.com/document/d/1RXxdRxFPPxvBeo-laqhylgFfT2BGantYx0W-YoCq28k/edit?usp=sharing):
         Identified stop signs and yield signs from a big data group using MATLAB
