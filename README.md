@@ -55,8 +55,8 @@ Extracurricular Actitivies:
 
 
 ### User research and Design:
-- [UXD Adogi](https://drive.google.com/file/d/1ziCPP4O2XVuSco3qBUUYJlIGi6-MlW_S/view?usp=sharing):
-	A user experience design project focused on the pet search and adoption process
+- [UXD Adogi](https://www.figma.com/proto/kyxU5rSxAYWHGbVjIC4Cxe/Pet-Adoption-UX-Design?page-id=0%3A1&node-id=1538%3A11135&viewport=602%2C-113%2C0.06&scaling=scale-down&starting-point-node-id=1538%3A11135&show-proto-sidebar=1):
+	A user experience design project focused on the pet search and adoption process. Click to see final prototype!
 - [Park Rangers Project](https://drive.google.com/drive/folders/1ScRanZuc9mZxOKTZUhXSxzi2utCa20_F?usp=sharing):
 	Collaboratively designed a proposal targeted at park rangers' daily woes
 - [Impact of sauce packets on the environment](https://drive.google.com/file/d/1fW8T57gan4d98lUqtkl8lS_PWvAR3JV8/view?usp=sharing):
