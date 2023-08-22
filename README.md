@@ -4,10 +4,11 @@ Passionate about people, design, coding, and video games. I love learning new te
 
 
 ## About Me
-I am a junior studying engineering with concentration in computing. I love learning new technologies and learning about people to better understand the world around me. I have worked on several coding, user experience and video game projects. Some languages I use include:
+I am a senior studying engineering with concentration in computing. I love learning new technologies and learning about people to better understand the world around me. I have worked on several coding, user experience and video game projects. Some languages I use include:
 - Python
 - MATLAB
 - Arduino
+- C
 - Go
 - Java
 
@@ -24,12 +25,12 @@ Recipient of a 50% merit scholarship
 
 Extracurricular Actitivies:
 - Assistant Director of Committee for Clubs and Organizations
-- Course assistant for Quantative Engineering Analysis 2
+- Course assistant for Collaborative Design and Quantative Engineering Analysis 2 
 - Game-Based Learning Research
 - Olin Fire Arts Club Member
 - Powerchords (acapella group) member
 - Addams Family Ensemble
-- Owner of DnD Server
+- Owner of D&D Server
 
 ## Projects
 ### Coding
@@ -55,6 +56,10 @@ Extracurricular Actitivies:
 
 
 ### User research and Design:
+- [Volunteer Website Improvement Project](https://drive.google.com/drive/folders/1Kfk3-wZXZuSS23bGT9jrr7368En0Ct6Q?usp=sharing):
+  	An iterative exploratory user experience research focused on delivering feasible changes and blue-sky recommendations for a volunteer website to increase user motivation and ease of use
+- [Design System Improvement Project](https://drive.google.com/drive/folders/1mhy76Wug7wDSOMeaSOuO-Zpo2SjbGJuR?usp=sharing):
+  	A task-based usability study on a design system prototype to better help new users navigate the website
 - [UXD Adogi](https://www.figma.com/proto/kyxU5rSxAYWHGbVjIC4Cxe/Pet-Adoption-UX-Design?page-id=0%3A1&node-id=1538%3A11135&viewport=602%2C-113%2C0.06&scaling=scale-down&starting-point-node-id=1538%3A11135&show-proto-sidebar=1):
 	A user experience design project focused on the pet search and adoption process. Click to see final prototype!
 - [Park Rangers Project](https://drive.google.com/drive/folders/1ScRanZuc9mZxOKTZUhXSxzi2utCa20_F?usp=sharing):
