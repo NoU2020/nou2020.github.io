@@ -12,7 +12,7 @@ I am a senior studying engineering with concentration in computing. I love learn
 - Go
 - Java
 
-Outside of classes and projects, you can find me singing in a stairwell, waving to cats through a window, or playing games.
+Outside of classes and projects, you can find me singing in a stairwell, waving to cats through a window, or playing games with friends.
 
 ## Education
 Bachleor of Science in Engineering
