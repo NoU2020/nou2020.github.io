@@ -34,6 +34,8 @@ Extracurricular Actitivies:
 
 ## Projects
 ### Coding
+- Ultimate Tic-Tac-Toe:
+  	A 2 player game of ultimate tic-tac-toe with the option of playing against a computer using C
 - Cheems Game:
 	Made a motion controlled pokemon inspired game using python
 - Performance tracker:
