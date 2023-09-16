@@ -46,6 +46,8 @@ Extracurricular Actitivies:
         Simulated the 2d motion of a triple pendulum using MATLAB
 - [Solar house temperature simulation](https://docs.google.com/document/d/1kxpSMF4g9S6eldswnY0EYNBL6Ne6coXY6i_IWRYSXBo/edit?usp=sharing):
         Created a passive solar house and simulation temperature change over time using MATLAB
+
+  
 ### Technical
 - [Rocky aka the one that walks](https://docs.google.com/document/d/1pa4henhJ0C_qMIdlytwz5s30eXm5KJHSjmJNv5kvWZk/edit?usp=sharing):
         Created a self balancing inverted pendulum using control systems and MATLAB
