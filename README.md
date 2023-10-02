@@ -80,6 +80,6 @@ Extracurricular Actitivies:
 - Boats project:
   	Teaching concepts of buoyancy, stable geometry and surface area through project-based lessons to elementary school children.
 - Game Based Learning research:
-	A research on how mixed reality learning environments, specifically game-based learning, support creation of individualized hands-on learning opportunities
+  	Research on how mixed reality learning environments, specifically game-based learning, support creation of individualized hands-on learning opportunities
 - [Redesigning qea 3](https://drive.google.com/drive/folders/1NterEjpaiqDCD3esMe5Ry9PzUVrNHkNg?usp=sharing):
-	Redesigned a week's worth of content in Quantative Engineering Analysis 3 as a final project
+	Redesigned a week's worth of content focusing on Fourier transformation in Quantitative Engineering Analysis 3 (Sophomore level engineering course) as a final project
