@@ -40,6 +40,8 @@ Extracurricular Actitivies:
 
 	Boston Scientific, a leader in the medical device industry, tasked the 2023-2024 BSC SCOPE team with the challenge of identifying potential alternative materials to make EVT more effective and minimize the judgement calculations needed for doctors to customize sponges to patients. 
 
+-Main Role: Project Manager, User researcher
+
 ### Coding
 - Ultimate Tic-Tac-Toe:
   	A 2 player game of ultimate tic-tac-toe with the option of playing against a computer using C
