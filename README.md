@@ -35,6 +35,7 @@ Extracurricular Actitivies:
 ## Projects
 ### Senior Capstone project: SCOPE
 - Identifying Potential New Materials for Endoluminal Vacuum Therapy:
+
   	Endoluminal Vacuum Therapy (EVT) is a medical procedure used to treat disease conditions of the gastrointestinal (GI) tract, particularly complications that can arise after surgery, accidental ingestion, previous GI interventions among other aetiologies. It is a minimally invasive technique that can help manage conditions such as leaks, perforations, fistulas, or abscesses in the GI tract. This typically involves placing a sponge that is connected to a vacuum system at the wound site to promote and accelerate healing. Currently, EVT is seen as a novel procedure that shows promise of being an adaptable and inexpensive procedure. However, it is being held back by the various hidden costs caused by the difficulty in monitoring healing progress and the need tailoring a standard sponge to individual patients at different stages of healing. 
 
 	Boston Scientific, a leader in the medical device industry, tasked the 2023-2024 BSC SCOPE team with the challenge of identifying potential alternative materials to make EVT more effective and minimize the judgement calculations needed for doctors to customize sponges to patients. 
