@@ -36,9 +36,9 @@ Extracurricular Actitivies:
 ### Senior Capstone project: SCOPE
 - Identifying Potential New Materials for Endoluminal Vacuum Therapy:
 
-  	Endoluminal Vacuum Therapy (EVT) is a medical procedure used to treat disease conditions of the gastrointestinal (GI) tract, particularly complications that can arise after surgery, accidental ingestion, previous GI interventions among other aetiologies. It is a minimally invasive technique that can help manage conditions such as leaks, perforations, fistulas, or abscesses in the GI tract. This typically involves placing a sponge that is connected to a vacuum system at the wound site to promote and accelerate healing. Currently, EVT is seen as a novel procedure that shows promise of being an adaptable and inexpensive procedure. However, it is being held back by the various hidden costs caused by the difficulty in monitoring healing progress and the need tailoring a standard sponge to individual patients at different stages of healing. 
+Endoluminal Vacuum Therapy (EVT) is a medical procedure used to treat disease conditions of the gastrointestinal (GI) tract, particularly complications that can arise after surgery, accidental ingestion, previous GI interventions among other aetiologies. It is a minimally invasive technique that can help manage conditions such as leaks, perforations, fistulas, or abscesses in the GI tract. This typically involves placing a sponge that is connected to a vacuum system at the wound site to promote and accelerate healing. Currently, EVT is seen as a novel procedure that shows promise of being an adaptable and inexpensive procedure. However, it is being held back by the various hidden costs caused by the difficulty in monitoring healing progress and the need tailoring a standard sponge to individual patients at different stages of healing. 
 
-	Boston Scientific, a leader in the medical device industry, tasked the 2023-2024 BSC SCOPE team with the challenge of identifying potential alternative materials to make EVT more effective and minimize the judgement calculations needed for doctors to customize sponges to patients. 
+Boston Scientific, a leader in the medical device industry, tasked the 2023-2024 BSC SCOPE team with the challenge of identifying potential alternative materials to make EVT more effective and minimize the judgement calculations needed for doctors to customize sponges to patients. 
 
 - Main Roles: Project Manager, User researcher
 
@@ -69,6 +69,12 @@ Extracurricular Actitivies:
 
 
 ### User research and Design:
+- Web analytics on SCOPE and Partnerships page:
+	A quantitative study on 2 webpages using Hotjar and Google Analytics that identified users and analyzed web traffic, presented to the Office of External Partnerships and Programs of Olin College
+- [Mobile App Project](https://drive.google.com/file/d/19ty8YzGquIYveRTwfLTyjJc9Tt_ZWWhb/view?usp=sharing):
+  	Designed demos for an ideating mobile app start-up at Babson and presented demo in a shark tank
+- Microwave Usability testing:
+	Analyzed the Usability of microwave with comparative testing, surveys, light touch poll, and longitudinal study
 - [Volunteer Website Improvement Project](https://drive.google.com/drive/folders/1Kfk3-wZXZuSS23bGT9jrr7368En0Ct6Q?usp=sharing):
   	An iterative exploratory user experience research focused on delivering feasible changes and blue-sky recommendations for a volunteer website to increase user motivation and ease of use
 - [Design System Improvement Project](https://drive.google.com/drive/folders/1mhy76Wug7wDSOMeaSOuO-Zpo2SjbGJuR?usp=sharing):
