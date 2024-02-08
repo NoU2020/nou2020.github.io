@@ -19,7 +19,7 @@ Bachleor of Science in Engineering
   
 Franklin W Olin College of Engineering (2020-2024)
   
-GPA: 3.62 out of 4.0
+GPA: 3.58 out of 4.0
   
 Recipient of a 50% merit scholarship
 
