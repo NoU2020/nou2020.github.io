@@ -1,10 +1,10 @@
 Hi! My name is 
 ## Jaclyn Ho.
-Passionate about people, design, coding, and video games. I love learning new technologies and learning about people to better understand the world around me.
+Passionate about people, design, and coding. I love learning new technologies and learning about people to better understand the world around me.
 
 
 ## About Me
-I am a senior studying engineering with concentration in computing. I love learning new technologies and learning about people to better understand the world around me. I have worked on several coding, user experience and video game projects. Some languages I use include:
+I am a UX Designer with a major in Computer Science and UX. I love learning new technologies and learning about people to better understand the world around me. I have worked on several coding, user experience and video game projects. Some languages I use include:
 - Python
 - MATLAB
 - Arduino
